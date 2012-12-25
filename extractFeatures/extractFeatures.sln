@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "extractFeatures", "extractFeatures.vcxproj", "{965D54F7-8B86-47BB-9452-7FDA26DDB709}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mexFeatures", "mexFeatures\mexFeatures.vcxproj", "{25326BC6-E7B6-4371-81F3-8B4C3BC623FD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "extractGWT", "extractGWT\extractGWT.vcxproj", "{386A363B-E72B-4A1B-AC3B-4FCCCB2542A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965D54F7-8B86-47BB-9452-7FDA26DDB709}.Debug|Win32.ActiveCfg = Debug|Win32
+		{965D54F7-8B86-47BB-9452-7FDA26DDB709}.Debug|Win32.Build.0 = Debug|Win32
+		{965D54F7-8B86-47BB-9452-7FDA26DDB709}.Release|Win32.ActiveCfg = Release|Win32
+		{965D54F7-8B86-47BB-9452-7FDA26DDB709}.Release|Win32.Build.0 = Release|Win32
+		{25326BC6-E7B6-4371-81F3-8B4C3BC623FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25326BC6-E7B6-4371-81F3-8B4C3BC623FD}.Debug|Win32.Build.0 = Debug|Win32
+		{25326BC6-E7B6-4371-81F3-8B4C3BC623FD}.Release|Win32.ActiveCfg = Release|Win32
+		{25326BC6-E7B6-4371-81F3-8B4C3BC623FD}.Release|Win32.Build.0 = Release|Win32
+		{386A363B-E72B-4A1B-AC3B-4FCCCB2542A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{386A363B-E72B-4A1B-AC3B-4FCCCB2542A9}.Debug|Win32.Build.0 = Debug|Win32
+		{386A363B-E72B-4A1B-AC3B-4FCCCB2542A9}.Release|Win32.ActiveCfg = Release|Win32
+		{386A363B-E72B-4A1B-AC3B-4FCCCB2542A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
